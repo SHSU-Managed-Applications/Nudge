@@ -55,7 +55,7 @@
       "iconLightPath": "",
       "screenShotDarkPath": "",
       "screenShotLightPath": "",
-      "simpleMode": true,
+      "simpleMode": false,
       "singleQuitButton": false,
       "updateElements": [
         {
