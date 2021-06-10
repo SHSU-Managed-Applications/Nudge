@@ -2,10 +2,14 @@
 
 Nudge is an application for enforcing macOS updates, written in Swift/SwiftUI 5.2. The latest versions only support macOS 11.0+. The Python version for Nudge is EOL but still functions for MacOS 10.15.7 and below.
 
+Nudge is developed and maintained by macadmins.
+
+[macadmins/nudge](https://github.com/macadmins/nudge)
+
 
 ## Purpose
 
-Our Implementation of Nudge is intended for macOS 11.0 and Apple Silicon (M1) devices. Apple has made it substantially more difficult to manage Software Updates. 
+SHSU's Implementation of Nudge is intended for macOS 11.0 and Apple Silicon (M1) devices. Apple has made it substantially more difficult to manage Software Updates.
 
 This .git is intended to host the JSON configuration file that Nudge will reference each time on launch. There will be a Production and Development JSON file for use with the respective devices. 
 
