@@ -58,12 +58,12 @@
     "randomDelay": false
   },
   "userInterface": {
-    "actionButtonPath": "jamfselfservice://content?entity=policy&id=2838&action=execute &",
+    "actionButtonPath": "jamfselfservice://content?entity=policy&id=2838&action=execute",
     "fallbackLanguage": "en",
     "forceFallbackLanguage": false,
     "forceScreenShotIcon": false,
-    "iconDarkPath": "",
-    "iconLightPath": "",
+    "iconDarkPath": "/Library/Application Support/SHSU/Branding/SHSU-RGB_Orage Box Tilt.png",
+    "iconLightPath": "/Library/Application Support/SHSU/Branding/SHSU-RGB_Orage Box Tilt.png",
     "screenShotDarkPath": "",
     "screenShotLightPath": "",
     "simpleMode": false,
