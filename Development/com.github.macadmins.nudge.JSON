@@ -58,7 +58,7 @@
     "randomDelay": false
   },
   "userInterface": {
-    "actionButtonPath": "jamfselfservice://content?entity=policy&id=2838&action=execute",
+    "actionButtonPath": "jamfselfservice://content?entity=policy&id=2838&action=execute &",
     "fallbackLanguage": "en",
     "forceFallbackLanguage": false,
     "forceScreenShotIcon": false,
