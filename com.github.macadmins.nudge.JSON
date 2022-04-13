@@ -1,16 +1,19 @@
 {
   "optionalFeatures": {
+    "acceptableApplicationBundleIDs": [
+      "us.zoom.xos"
+    ],
+    "agressiveUserExperience": true,
     "asyncronousSoftwareUpdate": true,
     "attemptToFetchMajorUpgrade": false,
     "enforceMinorUpdates": true
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT211896#macos114",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos114"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896"
         },
         {
           "_language": "es",
@@ -18,33 +21,48 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-      "requiredInstallationDate": "2022-01-28T22:00:00Z",
+      "requiredInstallationDate": "2022-04-08T22:00:00Z",
       "requiredMinimumOSVersion": "",
-      "targetedOSVersions": [
-        ""
-      ]
+      "targetedOSVersionsRule": ""
+    },
+    {
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT212585"
+        },
+        {
+          "_language": "es",
+          "aboutUpdateURL": "https://support.apple.com/es-es/HT212585"
+        }
+      ],
+      "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
+      "requiredInstallationDate": "2022-04-08T22:00:00Z",
+      "requiredMinimumOSVersion": "",
+      "targetedOSVersionsRule": ""
     }
+
   ],
   "userExperience": {
-    "allowedDeferrals": 3,
-    "allowedDeferralsUntilForcedSecondaryQuitButton": 3,
-    "approachingRefreshCycle": 6000,
+    "allowedDeferrals": 1000000,
+    "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
+    "approachingRefreshCycle": 14400,
     "approachingWindowTime": 72,
-    "elapsedRefreshCycle": 300,
-    "imminentRefreshCycle": 600,
+    "elapsedRefreshCycle": 4800,
+    "imminentRefreshCycle": 7200,
     "imminentWindowTime": 24,
     "initialRefreshCycle": 18000,
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
     "nudgeRefreshCycle": 60,
-    "randomDelay": false
+    "randomDelay": true
   },
   "userInterface": {
     "fallbackLanguage": "en",
     "forceFallbackLanguage": false,
     "forceScreenShotIcon": false,
-    "iconDarkPath": "",
-    "iconLightPath": "",
+    "iconDarkPath": "/Library/Application Support/SHSU/Branding/SHSU-RGB_Orange Box Tilt.png",
+    "iconLightPath": "/Library/Application Support/SHSU/Branding/SHSU-RGB_Orange Box Tilt.png",
     "screenShotDarkPath": "",
     "screenShotLightPath": "",
     "simpleMode": false,
@@ -55,13 +73,13 @@
         "actionButtonText": "Update Device",
         "informationButtonText": "More Info",
         "mainContentHeader": "Your device will restart during this update",
-        "mainContentNote": "Important Notice",
+        "mainContentNote": "Important Notes",
         "mainContentSubHeader": "Updates can take around 30 minutes to complete",
-        "mainContentText": "A fully up-to-date device is required to ensure that we can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.",
+        "mainContentText": "A fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\nIf the latest macOS Release is available (i.e. Monterey), you will need administrative credentials to update. Otherwise, please check the Self-Service Application for a provided upgrade workflow.",
         "mainHeader": "Your device requires a security update",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I understand",
-        "subHeader": "IT@Sam Mandatory macOS Security Updates"
+        "subHeader": "Required Security Updates Reminder by IT@Sam"
       },
       {
         "_language": "es",
