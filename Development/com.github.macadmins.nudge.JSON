@@ -22,8 +22,8 @@
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
       "requiredInstallationDate": "2022-04-08T22:00:00Z",
-      "requiredMinimumOSVersion": "11.6.5",
-      "targetedOSVersionsRule": ""
+      "requiredMinimumOSVersion": "11.6.6",
+      "targetedOSVersionsRule": "11"
     },
     {
       "aboutUpdateURLs": [
@@ -38,8 +38,8 @@
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
       "requiredInstallationDate": "2022-04-08T22:00:00Z",
-      "requiredMinimumOSVersion": "12.3.1",
-      "targetedOSVersionsRule": ""
+      "requiredMinimumOSVersion": "12.3.2",
+      "targetedOSVersionsRule": "12"
     }
 
   ],
