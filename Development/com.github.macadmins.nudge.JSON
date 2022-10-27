@@ -13,17 +13,17 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         },
         {
           "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT211896"
+          "aboutUpdateURL": "https://support.apple.com/es-es/HT213268"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
+      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
       "requiredInstallationDate": "2022-10-28T22:00:00Z",
-      "requiredMinimumOSVersion": "11.7.1",
-      "targetedOSVersionsRule": "11"
+      "requiredMinimumOSVersion": "13.0",
+      "targetedOSVersionsRule": "13"
     },
     {
       "aboutUpdateURLs": [
@@ -40,6 +40,22 @@
       "requiredInstallationDate": "2022-10-28T22:00:00Z",
       "requiredMinimumOSVersion": "12.6.1",
       "targetedOSVersionsRule": "12"
+    },
+    {
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896"
+        },
+        {
+          "_language": "es",
+          "aboutUpdateURL": "https://support.apple.com/es-es/HT211896"
+        }
+      ],
+      "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
+      "requiredInstallationDate": "2022-10-28T22:00:00Z",
+      "requiredMinimumOSVersion": "11.7.1",
+      "targetedOSVersionsRule": "11"
     }
 
   ],
