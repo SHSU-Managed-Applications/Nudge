@@ -53,8 +53,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-      "requiredInstallationDate": "2023-01-27T22:00:00Z",
-      "requiredMinimumOSVersion": "11.7.3",
+      "requiredInstallationDate": "2023-02-17T22:00:00Z",
+      "requiredMinimumOSVersion": "11.7.4",
       "targetedOSVersionsRule": "11"
     }
 
