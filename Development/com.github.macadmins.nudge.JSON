@@ -22,7 +22,7 @@
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
       "requiredInstallationDate": "2023-04-07T22:00:00Z",
-      "requiredMinimumOSVersion": "13.3.1",
+      "requiredMinimumOSVersion": "13.4",
       "targetedOSVersionsRule": "13"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
       "requiredInstallationDate": "2023-04-12T22:00:00Z",
-      "requiredMinimumOSVersion": "12.6.5",
+      "requiredMinimumOSVersion": "12.6.6",
       "targetedOSVersionsRule": "12"
     },
     {
@@ -54,7 +54,7 @@
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
       "requiredInstallationDate": "2023-04-12T22:00:00Z",
-      "requiredMinimumOSVersion": "11.7.6",
+      "requiredMinimumOSVersion": "11.7.7",
       "targetedOSVersionsRule": "11"
     }
 
