@@ -37,8 +37,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2023-07-25T22:00:00Z",
-      "requiredMinimumOSVersion": "12.6.8",
+      "requiredInstallationDate": "2023-09-15T22:00:00Z",
+      "requiredMinimumOSVersion": "12.6.9",
       "targetedOSVersionsRule": "12"
     },
     {
@@ -53,8 +53,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-      "requiredInstallationDate": "2023-07-25T22:00:00Z",
-      "requiredMinimumOSVersion": "11.7.9",
+      "requiredInstallationDate": "2023-09-15T22:00:00Z",
+      "requiredMinimumOSVersion": "11.7.10",
       "targetedOSVersionsRule": "11"
     }
 
