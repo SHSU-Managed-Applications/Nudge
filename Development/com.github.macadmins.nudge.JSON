@@ -22,8 +22,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-      "requiredInstallationDate": "2023-10-27T22:00:00Z",
-      "requiredMinimumOSVersion": "14.1",
+      "requiredInstallationDate": "2023-11-10T22:00:00Z",
+      "requiredMinimumOSVersion": "14.1.1",
       "targetedOSVersionsRule": "14"
     },
     {
@@ -38,8 +38,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2023-10-27T22:00:00Z",
-      "requiredMinimumOSVersion": "13.6.1",
+      "requiredInstallationDate": "2023-11-10T22:00:00Z",
+      "requiredMinimumOSVersion": "13.6.2",
       "targetedOSVersionsRule": "13"
     },
     {
