@@ -8,22 +8,55 @@
     "attemptToFetchMajorUpgrade": false,
     "enforceMinorUpdates": true
   },
+  
   "osVersionRequirements": [
     {
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896"
+          "aboutUpdateURL": "https://support.apple.com/en-us/121564"
         },
         {
           "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT211896"
+          "aboutUpdateURL": "https://support.apple.com/es-es/121564"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-      "requiredInstallationDate": "2023-09-15T22:00:00Z",
-      "requiredMinimumOSVersion": "11.7.10",
-      "targetedOSVersionsRule": "11"
+      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "requiredInstallationDate": "2024-11-01T22:00:00Z",
+      "requiredMinimumOSVersion": "15.1",
+      "targetedOSVersionsRule": "15"
+    },
+    {
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/121570"
+        },
+        {
+          "_language": "es",
+          "aboutUpdateURL": "https://support.apple.com/es-es/121570"
+        }
+      ],
+      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "requiredInstallationDate": "2024-11-01T22:00:00Z",
+      "requiredMinimumOSVersion": "14.7",
+      "targetedOSVersionsRule": "14"
+    },
+    {
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/121568"
+        },
+        {
+          "_language": "es",
+          "aboutUpdateURL": "https://support.apple.com/es-es/121568"
+        }
+      ],
+      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
+      "requiredInstallationDate": "2024-11-01T22:00:00Z",
+      "requiredMinimumOSVersion": "13.7",
+      "targetedOSVersionsRule": "13"
     },
     {
       "aboutUpdateURLs": [
@@ -45,33 +78,17 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896"
         },
         {
           "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT213268"
+          "aboutUpdateURL": "https://support.apple.com/es-es/HT211896"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2024-09-20T22:00:00Z",
-      "requiredMinimumOSVersion": "13.7",
-      "targetedOSVersionsRule": "13"
-    },
-    {
-      "aboutUpdateURLs": [
-        {
-          "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT213984"
-        },
-        {
-          "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT213984"
-        }
-      ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-      "requiredInstallationDate": "2024-09-20T22:00:00Z",
-      "requiredMinimumOSVersion": "14.7",
-      "targetedOSVersionsRule": "14"
+      "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
+      "requiredInstallationDate": "2023-09-15T22:00:00Z",
+      "requiredMinimumOSVersion": "11.7.10",
+      "targetedOSVersionsRule": "11"
     }
     
   ],

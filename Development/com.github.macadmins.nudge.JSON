@@ -14,15 +14,31 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT213984"
+          "aboutUpdateURL": "https://support.apple.com/en-us/121564"
         },
         {
           "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT213984"
+          "aboutUpdateURL": "https://support.apple.com/es-es/121564"
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-      "requiredInstallationDate": "2024-09-20T22:00:00Z",
+      "requiredInstallationDate": "2024-11-01T22:00:00Z",
+      "requiredMinimumOSVersion": "15.1",
+      "targetedOSVersionsRule": "15"
+    },
+    {
+      "aboutUpdateURLs": [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://support.apple.com/en-us/121570"
+        },
+        {
+          "_language": "es",
+          "aboutUpdateURL": "https://support.apple.com/es-es/121570"
+        }
+      ],
+      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "requiredInstallationDate": "2024-11-01T22:00:00Z",
       "requiredMinimumOSVersion": "14.7",
       "targetedOSVersionsRule": "14"
     },
@@ -30,15 +46,15 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
+          "aboutUpdateURL": "https://support.apple.com/en-us/121568"
         },
         {
           "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT213268"
+          "aboutUpdateURL": "https://support.apple.com/es-es/121568"
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2024-09-20T22:00:00Z",
+      "requiredInstallationDate": "2024-11-01T22:00:00Z",
       "requiredMinimumOSVersion": "13.7",
       "targetedOSVersionsRule": "13"
     },
